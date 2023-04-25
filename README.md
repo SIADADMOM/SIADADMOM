@@ -2,6 +2,8 @@
 
 WANNA BE FE Developer
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bear31z)](https://solved.ac/bear31z/)
+
 <!--
 **SIADADMOM/SIADADMOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
