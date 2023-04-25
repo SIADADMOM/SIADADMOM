@@ -1,7 +1,5 @@
 ### SIA 🐈‍⬛
 
-WANNA BE FE Developer
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bear31z)](https://solved.ac/bear31z)<br/>
 <!--
 **SIADADMOM/SIADADMOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +18,8 @@ Here are some ideas to get you started:
 
 # 💪Skills
 ### Languages
+   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+   
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -34,3 +34,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSIADADMOM&count_bg=%233D4BC8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SIADADMOM&show_icons=true&theme=radical)
